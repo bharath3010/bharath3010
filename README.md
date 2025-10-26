@@ -61,14 +61,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bharath3010&theme=onedark&margin-w=10&margin-h=10&no-bg=true" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -80,4 +72,3 @@
 ---
 
 ⭐ *“Building intelligent systems that bridge AI and real-world applications.”*
-d Creativity.”*
